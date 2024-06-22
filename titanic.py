@@ -1,3 +1,5 @@
+# To tylko projekt testowy
+
 import pandas as pd
 from pathlib import Path
 from sklearn.preprocessing import OneHotEncoder
