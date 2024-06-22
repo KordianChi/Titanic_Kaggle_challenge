@@ -1,4 +1,5 @@
 # To tylko projekt testowy
+# Prosty projekt oparty o dane kaggle
 
 import pandas as pd
 from pathlib import Path
